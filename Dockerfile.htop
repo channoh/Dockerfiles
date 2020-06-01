@@ -1,0 +1,7 @@
+FROM alpine
+
+MAINTAINER Channoh Kim "channoh@gmail.com"
+
+RUN apk add --no-cache htop
+
+CMD htop
