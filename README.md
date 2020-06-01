@@ -2,5 +2,5 @@
 Dockerfiles
 
 ```bash
-docker run --rm channoh/htop
+docker run --rm -it channoh/htop
 ```
